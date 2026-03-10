@@ -28,3 +28,6 @@ This project follows the **Medallion Architecture**:
 - Spark SQL  
 - Delta Lake  
 - Unity Catalog 
+
+## Pipeline
+![](assets/Pipeline.png)   
